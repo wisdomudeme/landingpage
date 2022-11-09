@@ -32,13 +32,11 @@ ul{
     background-color:  rgb(121, 105, 105);
     
 }
-
-.navbar>h1{
+.first-tittle{
+    border: solid;
     background-color: white;
-    padding: 10px 10px 5px 10px ;
-    color: rgb(129, 112, 112);
     border-radius: 8px;
-
+    padding: 0px 0px 0px 0px;
 }
 
 
@@ -225,6 +223,7 @@ padding: px 0px 0px 0px;
 
     .first-tittle{
         padding: 0px 0px 0px 0px;
+        font-size: 10px;
     }
 
     .navbar>h1{
@@ -300,7 +299,7 @@ font-size: 11px;
 .img-three{
     
    gap: 10px;
-   padding: 80px 0px 0px 20px;
+   padding: 50px 0px 40px 20px;
    
    }
 
